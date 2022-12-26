@@ -82,6 +82,10 @@ make install
 ## ursa adlı bir screen'de node'u çalıştıralım:
 
 * Loglar akıyorsa sorun yok.
+
+<img width="1787" alt="image" src="https://user-images.githubusercontent.com/45847677/209521824-b2bfbac5-5a7b-4339-b5df-d6c14ad29950.png">
+
+
 * Loglar aktıktan sonra CTRL + A + D ile çıkın.
 
 ```
@@ -110,4 +114,4 @@ ls -hl ./output
 
 ![image](https://user-images.githubusercontent.com/101149671/209468216-0aa9927c-c28f-4f0d-9423-2cde745a4f63.png)
 
-## Kolay gelsin.
+Teşekkürler..
